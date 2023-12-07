@@ -1,0 +1,10 @@
+CSR ----> Client Side Render
+SSR ----> Server Side Render
+
+
+---------------------------------
+Weak type
+
+var x
+let x
+const x
